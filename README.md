@@ -3,6 +3,7 @@ Pombo explica é uma plataforma que fornece informações sobre monumentos hist�
 
 ##  Resumo do projeto
 
+O nome pombo explica é uma referência aos pombos que sempre estão pelos monumentos da cidade =)
 
 Neste projeto construimos uma aplicação que fornece informações sobre monumentos históricos na cidade de São Paulo/SP. 
 A proposta da plataforma é incentivar as pessoas a conhecer a história da cidade,fornecendo informações de fontes confiáveis, de forma prática, centralizada e em tempo real. 
@@ -10,6 +11,7 @@ A proposta da plataforma é incentivar as pessoas a conhecer a história da cida
 O projeto visou adequar-se às necessidades dos usuários conforme pesquisas de usuário realizadas.
 
 ### Definição de produto
+
 
 Durante o processo de criação da aplicação fizemos em um primeiro momento rascunhos em lápis e papel, realizamos testes e questionamos as 
 necessidades/informações básicas que o usuário tem sobre o assunto. 
