@@ -1,4 +1,7 @@
 # SAP003-pombo-explica
+
+> Status: Concluído
+
 Pombo explica é uma plataforma que fornece informações sobre monumentos históricos na cidade de São Paulo/SP. 
 
 
